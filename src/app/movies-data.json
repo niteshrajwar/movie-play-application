@@ -1,0 +1,41 @@
+{
+
+"data":[
+ 
+{
+
+"moviesName":"Harry Porter",
+"moviesRating":9.5,
+"moviesGenre":"Fiction"
+
+},
+{
+
+"moviesName":"Mission Impossible",
+"moviesRating":8.0,
+"moviesGenre":"Action"
+
+},
+{
+
+"moviesName":"Moonlight",
+"moviesRating":9.0,
+"moviesGenre":"Drama"
+
+},{
+
+"moviesName":"Lord of the ring",
+"moviesRating":9.2,
+"moviesGenre":"Fiction"
+
+},
+{
+
+"moviesName":"Transporter",
+"moviesRating":8.0,
+"moviesGenre":"Action"
+
+}
+
+]
+}

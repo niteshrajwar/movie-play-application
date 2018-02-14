@@ -1,0 +1,31 @@
+
+
+
+<div class="container">
+	<form #search="ngForm" >
+		
+		
+		<div class="form-group">
+			<label>Search Movie:</label>
+			<select id="type" #type>
+				<option >Drama</option>
+				<option>Action</option>
+				<option>Fiction</option>
+
+			</select>
+		</div>
+		<button class="btn btn-success" 
+	              	[disabled]="search.invalid"
+          (click)="searchMovies(type.value)">
+    Search Movies</button>
+	</form>
+</div>
+<div id="display">
+	<table id="tab" border="1" align="center">
+		<thead id="head"></thead>
+		<tbody id="tb"></tbody>
+	</table>
+	
+
+	
+</div>

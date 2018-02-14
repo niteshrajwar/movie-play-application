@@ -1,0 +1,42 @@
+{
+"data":[
+	{
+
+"courseName":"angularjs 1.0",
+"coursePrice":15000,
+"courseDuration":30
+
+},
+{
+
+"courseName":"angularjs 2.0",
+"coursePrice":15000,
+"courseDuration":30
+
+},
+{
+
+"courseName":"reactjs",
+"coursePrice":10000,
+"courseDuration":15
+
+},
+{
+
+"courseName":"html5",
+"coursePrice":5000,
+"courseDuration":15
+
+},
+{
+
+"courseName":"javascript",
+"coursePrice":30,
+"courseDuration":20000
+
+}
+
+]
+
+
+}
